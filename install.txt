@@ -1,0 +1,11 @@
+﻿namespace CQRS.WithMediatR._ASPNETCore
+install the following for dotnet 3.1 
+
+Install-Package Microsoft.EntityFrameworkCore
+Install-Package Microsoft.EntityFrameworkCore.Tool
+Install-Package Microsoft.EntityFrameworkCore.Relational
+Install-Package Microsoft.EntityFrameworkCore.MySQL
+Install-Package MediatR
+Install-Package MediatR.Extensions.Microsoft.DependencyInjection
+Install-Package Swashbuckle.AspNetCore
+Install-Package Swashbuckle.AspNetCore.Swagger
